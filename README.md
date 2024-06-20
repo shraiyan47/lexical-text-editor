@@ -12,7 +12,6 @@ I used these packages bellow,
     
  
 
-
 ===============================================================
 
 
@@ -31,6 +30,7 @@ pnpm dev
 # or
 bun dev
 ```
+![WhatsApp Image 2024-06-20 at 23 20 30_28e4a8a2](https://github.com/shraiyan47/lexical-text-editor/assets/44424318/02cca88c-82d2-4844-8e3e-1eca8d80d79e)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
