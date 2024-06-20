@@ -1,3 +1,21 @@
+Hello,
+This is an extended example of Lexical Text Editor.
+I tried to add here " Undo, Redo, Bold, Italic, Underline, Strike, 4 types of alignment, and 3 types of List Elements"
+
+I used these packages bellow,
+
+    "@lexical/list": "^0.16.0",
+    
+    "@lexical/react": "^0.16.0",
+    
+    "@lexical/rich-text": "^0.16.0",
+    
+ 
+
+
+===============================================================
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
